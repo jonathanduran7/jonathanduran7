@@ -23,3 +23,8 @@ Welcome to my Github page! I'm a web developer.
 * 🎮 I love video games
 * ⚽ I like football
 
+## 🧠Technologies
+* Front-end development using **HTML, CSS, Javascript, Bootstrap, React, NextJs**
+* Backend development using **NodeJS, Firebase, MongoDB, SQL**
+* Leaning web Desgin with **Figma | Adobe XD **
+
