@@ -26,5 +26,5 @@ Welcome to my Github page! I'm a web developer.
 ## 🧠Technologies
 * Front-end development using **HTML, CSS, Javascript, Bootstrap, React, NextJs**
 * Backend development using **NodeJS, Firebase, MongoDB, SQL**
-* Leaning web Desgin with **Figma | Adobe XD **
+* Leaning web Desgin with **Figma | Adobe XD**
 
