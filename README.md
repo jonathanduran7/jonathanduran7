@@ -14,5 +14,5 @@ Welcome to my Github page! I'm a web developer.
 * Leaning web Desgin with **Figma | Adobe XD**
 
 ## ⚒ Projects
-* Portfolio site: [Portfolio](https://duranjonathan.com/)
+* [Portfolio site](https://duranjonathan.com/)
 
