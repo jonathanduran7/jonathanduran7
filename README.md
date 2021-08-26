@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is an example
+Welcome to my Github page! I'm a web developer.  
