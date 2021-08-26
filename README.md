@@ -16,3 +16,7 @@ Welcome to my Github page! I'm a web developer.
 ## ⚒ Projects
 * [Portfolio site](https://duranjonathan.com/)
 
+## ✉ Contact 
+* [Web](https://duranjonathan.com/)
+* [Linkedin](https://www.linkedin.com/in/duranjonathan7/)
+
