@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 -->
 
 Welcome to my Github page! I'm a web developer.  
+
+### 👀  About me: 
+* 👨‍🎓 I'm currently studying informatics Engineering at Universidad Nacional De La Matanza
+* 🎸 I like playing the guitar
+* 🎮 I love video games
+* ⚽ I like football
+
