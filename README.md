@@ -3,7 +3,8 @@
 Welcome to my Github page! I'm a web developer.  
 
 ## About me 
-* 👨‍🎓 I'm currently studying informatics Engineering at Universidad Tecnológica Nacional (U.T.N.)
+* 👨‍🎓 I'm currently studying informatics Engineering at Universidad Nacional de la Matanza (UNLAM)
+
 * 🎸 I like playing the guitar
 * 🎮 I love video games
 * ⚽ I like football
