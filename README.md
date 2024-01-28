@@ -12,7 +12,6 @@ Welcome to my Github page! I'm a web developer.
 ## 🧠 Technologies
 * Front-end development using **HTML, CSS, Javascript, Bootstrap, React, NextJs**
 * Backend development using **NodeJS, Express, Adonis, NestJs, Firebase, MongoDB, SQL**
-* Leaning web Desgin with **Figma | Adobe XD**
 
 ## ⚒ Projects
 * [Portfolio site](https://duranjonathan.com/)
