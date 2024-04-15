@@ -1,6 +1,5 @@
-<div align="center">
-  <img height="150" src="https://user-images.githubusercontent.com/39142850/67110554-fdea5400-f20d-11e9-834a-d459a612b7b1.gif"  />
-</div>
+
+<img src="https://64.media.tumblr.com/39be46f5f602ee0afdaf6103a3fb2445/eeee86fda8cd14e8-38/s1280x1920/5546600e1bd5bfd42aecf66fe2e2a50842a755b1.jpg"  />
 
 ###
 
