@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Jonathan, a passionate software developer with experience in various projects. I love exploring new technologies and challenges in the world of development.<br><br>- 🔭 I’m working as software developer<br>- 📚 Right now, I'm immersed in learning about microservices and distributed architectures.<br>- ⚡ In my free time, I enjoy activities related to programming, such as working on personal projects, playing the guitar, and training.</p>
 
 ###
 
@@ -63,9 +63,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
